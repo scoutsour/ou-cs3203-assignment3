@@ -31,7 +31,7 @@ def product (array2):
     return total
 
 
-def reverse(arr): # reverse function added
+def reverse(arr): # reverse function adding to branch1
   return arr[::-1]
 
 main()
